@@ -1,24 +1,10 @@
-````md id="k8v2q4"
-<div align="center">
-
 # ⚡ DATHEON
 
 ### Custom Software Engineering • AI Automation • Digital Infrastructure
 
-<p>
 We design systems that help companies scale faster, operate smarter, and eliminate friction.
-</p>
 
-<p>
-<a href="https://datheon.io">🌐 Website</a> •
-<a href="https://datheon.io">📩 Contact</a>
-</p>
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=900&color=00AEEF&center=true&vCenter=true&width=800&lines=Custom+Software+for+Growing+Companies;AI+Automation+for+Modern+Operations;Systems+Built+for+Scale;Technology+That+Creates+Leverage" />
-
-</div>
+🌐 [Website](https://datheon.io) • 📩 Contact Us
 
 ---
 
@@ -40,90 +26,61 @@ Many companies grow revenue while their operations become harder to manage.
 
 That usually looks like:
 
-- Teams working across multiple disconnected tools  
-- Manual processes consuming time every day  
-- Slow internal execution  
-- Poor visibility across departments  
-- Repetitive administrative tasks  
-- Inconsistent customer experiences  
-- Difficulty scaling operations  
+* Teams working across multiple disconnected tools
+* Manual processes consuming time every day
+* Slow internal execution
+* Poor visibility across departments
+* Repetitive administrative tasks
+* Inconsistent customer experiences
+* Difficulty scaling operations
 
 Growth should increase leverage.
-
 Not chaos.
 
 ---
 
 ## 💼 What We Build
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🖥 Custom Software
 
-- Internal platforms  
-- CRMs  
-- ERP systems  
-- Admin dashboards  
-- Portals  
-- Workflow systems  
-- Operations software  
-
-</td>
-<td width="50%">
+* Internal platforms
+* CRM systems
+* ERP systems
+* Admin dashboards
+* Client portals
+* Workflow management systems
+* Operations software
 
 ### 🤖 AI Automation
 
-- AI agents  
-- Proposal generation  
-- Sales automation  
-- Support assistants  
-- Workflow copilots  
-- Intelligent routing  
-- Knowledge systems  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+* AI agents
+* Proposal generation systems
+* Sales automation
+* Support assistants
+* Workflow copilots
+* Intelligent routing
+* Knowledge systems
 
 ### 📱 Web & Mobile Apps
 
-- SaaS products  
-- Mobile apps  
-- Marketplaces  
-- Customer portals  
-- Booking systems  
-- Subscription platforms  
-
-</td>
-<td width="50%">
+* SaaS products
+* Mobile applications
+* Marketplaces
+* Customer portals
+* Booking systems
+* Subscription platforms
 
 ### 📊 Data Systems
 
-- KPI dashboards  
-- Revenue analytics  
-- Forecast systems  
-- Executive reporting  
-- Real-time metrics  
-
-</td>
-</tr>
-</table>
+* KPI dashboards
+* Revenue analytics
+* Forecast systems
+* Executive reporting
+* Real-time metrics
 
 ---
 
 ## ⚙️ How We Work
-
-```mermaid
-flowchart LR
-A[Business Diagnosis] --> B[Systems Architecture]
-B --> C[Product Development]
-C --> D[Automation Layer]
-D --> E[Optimization & Scale]
-````
 
 ### 1️⃣ Diagnose
 
@@ -139,23 +96,19 @@ We engineer secure, scalable systems with modern frameworks.
 
 ### 4️⃣ Optimize
 
-We iterate continuously to improve speed, output, and leverage.
+We continuously improve speed, output, and leverage.
 
 ---
 
 ## 🛠 Technology Stack
-
-<div align="center">
 
 | Layer    | Stack                               |
 | -------- | ----------------------------------- |
 | Frontend | React • Next.js • TypeScript        |
 | Backend  | Node.js • Python                    |
 | Database | PostgreSQL • SQL                    |
-| Cloud    | APIs • Infrastructure • CI/CD       |
+| Cloud    | APIs • CI/CD • Infrastructure       |
 | AI Layer | Agents • LLM Workflows • Automation |
-
-</div>
 
 ---
 
@@ -186,7 +139,7 @@ We work best with companies that:
 
 ## 🌍 Industries
 
-`Logistics` `Healthcare` `Retail` `Fitness` `Real Estate` `Professional Services` `Startups`
+Logistics • Healthcare • Retail • Fitness • Real Estate • Professional Services • Startups
 
 ---
 
@@ -202,19 +155,13 @@ We work best with companies that:
 
 ---
 
-## 🤝 Let's Build
-
-<div align="center">
+## 🤝 Let’s Build
 
 ### Ready to modernize your operations?
 
-🌐 **https://datheon.io**
+🌐 https://datheon.io
 
 📩 Contact us for custom software, AI automation, or scalable digital systems.
 
----
-
 ### Build smarter. Operate faster. Scale confidently.
 
-</div>
-```
